@@ -29,3 +29,8 @@ We will utilize Python, Causalnex, Scikit-learn and Transformers (Will add more 
 Project is in the initial stages and will be updated as it progresses.
 
 
+### Contributors
+
+- [@Kristoffer-Hernandez](https://www.github.com/kristoffhernan)
+- [@Yiran-Li](https://www.github.com/kristoffhernan)
+
